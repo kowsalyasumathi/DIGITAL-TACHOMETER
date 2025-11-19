@@ -21,7 +21,8 @@ reducing machine downtime.
 # Project Objective:
 The goal is to design a digital tachometer capable of accurately
 calculating the RPM of a motor and displaying it in real time. The design is modular, leveraging core concepts of Verilog
-HDL for digital logic design. Functional Modules
+HDL for digital logic design. 
+# Functional Modules
 # 1. Sensor Simulation
 -- Periodic pulses are generated to simulate the real-
 world pulses produced by a magnetic, optical, or Hall-effect
