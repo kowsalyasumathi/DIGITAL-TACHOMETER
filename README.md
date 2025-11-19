@@ -1,6 +1,5 @@
 # DIGITAL-TACHOMETER
 
-## Introduction
 A digital tachometer is an instrument that measures the
 rotational speed (RPM) of an object, most commonly shafts or
 motors in vehicles and industrial equipment. Accurate RPM
