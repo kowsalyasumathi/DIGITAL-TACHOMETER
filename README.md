@@ -221,11 +221,6 @@ OUTPUT:
 
 <img width="1907" height="1074" alt="image" src="https://github.com/user-attachments/assets/8069f58f-7f86-45a5-900d-4821a7a2e9bc" />
 
-
-<img width="688" height="387" alt="image" src="https://github.com/user-attachments/assets/e870e9a0-5550-4e58-94a2-77d8b9d268f1" />
-
-<img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/8eeefb83-eb92-4a79-9568-a3be2d57407d" />
-
 # Verilog Design Concepts
 
 # Counters: 
